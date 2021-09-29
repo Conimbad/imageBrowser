@@ -1,7 +1,7 @@
 # Image Browser
 This project was created with pixabay API
 you can access to the page https://pixabay.com
-just create you account and get you key to build you own app.
+just create your account and get your key to build your own app.
 
 This app uses React.
 ## Getting Bootstrap
