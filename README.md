@@ -1,3 +1,14 @@
+# Image Browser
+This project was created with pixabay API
+you can access to the page https://pixabay.com
+just create you account and get you key to build you own app.
+
+This app uses React.
+# Getting Bootstrap
+This project use Bootstrap as CSS framework
+You need to implement it: https://getbootstrap.com
+
+# For React you can get it using...
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
